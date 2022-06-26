@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 24px;
+}
+
+.site-header {
+  background-color: #ff4500;
+}
+
+.site-header h1 {
+  color: aliceblue;
+}
+
+.site-header h2 {
+  color: aliceblue;
+}
+.main-nav {
+  color: #ff4500;
+}
